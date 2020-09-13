@@ -10,4 +10,4 @@ class Hw extends Controller
 	{
 		return $this->generateView();
 	}
-}
+}?>
